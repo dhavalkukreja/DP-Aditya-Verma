@@ -24,6 +24,6 @@ public class mcmRecursive {
             mn = Math.min(mn, temp_ans);
         return mn;
 
-        // edited
+        // edited 2
     }
 }
