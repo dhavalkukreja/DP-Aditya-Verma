@@ -23,5 +23,7 @@ public class mcmRecursive {
             temp_ans = solve(arr, i, k ) + solve(arr, k+1, j) + arr[i-1]*arr[k]*arr[j];
             mn = Math.min(mn, temp_ans);
         return mn;
+
+        // edited 2
     }
 }
