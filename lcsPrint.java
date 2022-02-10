@@ -52,7 +52,7 @@ public class lcsPrint {
                 }
             }
         }
-        // edited
+        // editing
         return sb.reverse();
     }
 }
